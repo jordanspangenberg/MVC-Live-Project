@@ -85,7 +85,7 @@ This was a lesson and a reminder to always check your assumptions. Sometimes the
 
 ### Dashboard View Creation
 
-I created multiple partial views to add to the index page to create a dashboard view. This view uses user roles to restrict certain displays and functions based on whether they are an admin or an employee. ![Dashboard View](C:\Users\Jordan\Downloads\Screenshot_2019-05-20 ERECTORS, INC (1).png)
+I created multiple partial views to add to the index page to create a dashboard view. This view uses user roles to restrict certain displays and functions based on whether they are an admin or an employee. ![Dashboard View](img\index_dashboard.png)
 
 ## Other Skills Learned
 
