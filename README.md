@@ -1,6 +1,5 @@
 # ASP.NET MVC Live Project
 
-[TOC]
 
 ## Introduction
 
